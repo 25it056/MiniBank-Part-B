@@ -8,7 +8,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.Pattern;
 
-public class Minibank {
+public class minibank {
     private static final Scanner SC = new Scanner(System.in);
     private static final Path DATA_DIR = Paths.get("data");
     private static final Path ACCOUNT_FILE = DATA_DIR.resolve("accounts.dat");
